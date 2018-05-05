@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-05-05 14:25:22
+ * @version $Id$
+ */
+.bold{
+	font-weight: bold;
+}

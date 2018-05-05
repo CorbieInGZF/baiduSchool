@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-05-05 15:46:26
+ * @version $Id$
+ */
+.jianli{
+	background-color: lightblue;
+	width: 150px;
+}
+.font{
+	color: white;
+
+}

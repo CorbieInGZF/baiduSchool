@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-05-05 16:21:54
+ * @version $Id$
+ */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+.head{
+	background-color: grey;
+	color: white;
+	padding: 15px;
+}
+.grey{
+	background-color: lightgrey;
+}
